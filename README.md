@@ -7,10 +7,10 @@
 ![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
 > Hello World!
 
-**안재민**
-<a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
-> Hello World!
+**천병준**
+<a href="https://github.com/cjsqudwns"><img src="https://img.shields.io/github/followers/anjm1020?label=CheonGit&style=social"/></a>
+![Badge](https://img.shields.io/badge/email-jd8795@40naver.com-blue)
+> 你好!
 
 **안재민**
 <a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
