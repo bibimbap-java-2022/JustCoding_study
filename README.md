@@ -1,5 +1,5 @@
 # JustCoding_study
-<img src="https://user-images.githubusercontent.com/55350092/160306027-32c4c6f0-effc-4640-92a5-7b83fe56423d.jpg" width="1000" height="400"/>
+<img src="https://user-images.githubusercontent.com/59379460/160846023-ca990e76-f4cd-4535-8884-e07201c048d2.jpg" width="600" height="600"/>
 
 ### ✍️ Member
 **홍석범**
