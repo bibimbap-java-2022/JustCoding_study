@@ -14,7 +14,7 @@
 
 **김형언**
 <a href="https://github.com/trollonion03"><img src="https://img.shields.io/github/followers/trollonion03?label=Trollonion03&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-trollonion03@gmail.com-red)
+![Badge](https://img.shields.io/badge/email-trollonion03@gmail.com-brightgreen)
 > Hello World!
 
 **안재민**
@@ -25,4 +25,4 @@
 ### 📆 Calendar
 |Date |Participant|Topic|Place|
 |--|--|--|--|
-|2022-03-30|`HongGit`,`CheonGit`,``| 깃허브 레포지토리 생성|Online|
+|2022-03-30|`HongGit`,`CheonGit`,`trollonion03`| 깃허브 레포지토리 생성|Online|
