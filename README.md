@@ -18,7 +18,7 @@
 > Hello World!
 
 **김형언**
-<a href="https://github.com/trollonion03"><img src="https://img.shields.io/github/followers/trollonion03?label=AnGit&style=social"/></a>
+<a href="https://github.com/trollonion03"><img src="https://img.shields.io/github/followers/trollonion03?label=KimGit&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-trollonion03@gmail.com-red)
 > Hello World!
 
