@@ -1,4 +1,4 @@
-# JustCoding_study
+# JustCoding_study ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 <img src="https://user-images.githubusercontent.com/59379460/160846023-ca990e76-f4cd-4535-8884-e07201c048d2.jpg" width="600" height="600"/>
 
 ### ✍️ Member
