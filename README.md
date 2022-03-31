@@ -1,4 +1,5 @@
 # JustCoding_study
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 <img src="https://user-images.githubusercontent.com/59379460/160846023-ca990e76-f4cd-4535-8884-e07201c048d2.jpg" width="600" height="600"/>
 
 ### ✍️ Member
@@ -15,6 +16,11 @@
 **안재민**
 <a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
+> Hello World!
+
+**김형언**
+<a href="https://github.com/trollonion03"><img src="https://img.shields.io/github/followers/trollonion03?label=AnGit&style=social"/></a>
+![Badge](https://img.shields.io/badge/email-trollonion03@gmail.com-red)
 > Hello World!
 
 ### 📆 Calendar
